@@ -13,23 +13,23 @@ export const taskData = [
     },
     {
       id: 3,
-      name: "Push Ups",
+      name: "Project Management",
     },
     {
       id: 4,
-      name: "Respond to Client Emails",
+      name: "Marketing Campaign",
     },
     {
       id: 5,
-      name: "Update Project Management Software ",
+      name: "Customer Support",
     },
     {
       id: 6,
-      name: "Prepare for Weekly Team Meeting",
+      name: "Content Creation",
     },
     {
       id: 7,
-      name: "Review Financial Reports ",
+      name: "Sales Outreach ",
     },
     {
       id: 8,
@@ -37,27 +37,27 @@ export const taskData = [
     },
     {
       id: 9,
-      name: "Develop Marketing Strategy",
+      name: "Data Analysis",
     },
     {
       id: 10,
-      name: "Maintain Social Media Accounts",
+      name: "Maintenance Work",
     },
     {
       id: 11,
-      name: "Train New Employees ",
+      name: "Employee Training ",
     },
     {
       id: 12,
-      name: "Quality Assurance Testing ",
+      name: "Financial Management",
     },
     {
       id: 13,
-      name: "Client Project Work",
+      name: "Quality Control",
     },
     {
       id: 14,
-      name: "Update Website Content ",
+      name: "Event Planing",
     },
     {
       id: 15,
