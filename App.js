@@ -22,7 +22,7 @@ export default function App() {
             <Text style={styles.group1Text}>14 Tasks Today</Text>
           </View>
           <TouchableOpacity>
-            <Image source={require("./assets/person.png")} />
+            <Image source={require("./assets/profile.jpg")} />
           </TouchableOpacity>
         </View>
         <View style={styles.search}>
