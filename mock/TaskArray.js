@@ -1,4 +1,4 @@
-export const taskData = [
+export const TaskArray = [
     {
       id: 0,
       name: "Mobile App Development",

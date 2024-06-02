@@ -9,8 +9,8 @@ import {
   FlatList,
 } from "react-native";
 import React from "react";
-import { taskData } from "./mock/taskData";
-import { CategoriesData } from "./mock/CategoriesData";
+import { TaskArray } from "./mock/TaskArray";
+import {CategoriesData} from "./mock/CategoryArray";
 
 export default function App() {
   return (
@@ -58,7 +58,7 @@ export default function App() {
         <View style={styles.task}>
           <Text style={styles.taskHeader}>Ongoing Task</Text>
           <FlatList
-            data={taskData}
+            data={TaskArray}
             renderItem={({ item }) => (
               <View style={styles.taskItem}>
                 <Text style={styles.tasktext}>{item.name} </Text>
